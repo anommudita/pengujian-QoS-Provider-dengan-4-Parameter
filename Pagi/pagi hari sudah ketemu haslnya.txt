@@ -1,0 +1,49 @@
+Pagi hari
+Menghitung Delay
+
+359.508 sec / 7829
+=0,0459 sec
+= 45.9 ms
+
+
+
+Menghitung Throughput :
+
+byte  / time 
+4889058 / 359.508 = 13.599 dalam bytes/s
+1 bytes = 8 bit
+13.599 x 8  = 108.792 bit ==> 106.24 K bits /s
+
+
+Menghitung Packet Loss :
+0 atau tidak ada paket yang hilang
+
+tcp.analysis.ack_lost_segment
+
+
+capture dikirim displayed itu diterima
+
+
+
+menghitung jitter 
+dengan cara memblok waktu diexcel dengan cara ctrl + shift + arrow bawah
+
+
+referensi kalkulator bit ke kilobit
+https://convertlive.com/u/convert/bits/to/kilobits#108792
+
+
+calculator second ke milisecond
+https://www.inchcalculator.com/convert/second-to-millisecond/
+
+
+
+
+
+
+
+
+
+
+Packets
+7829
